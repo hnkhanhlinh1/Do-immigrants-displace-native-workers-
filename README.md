@@ -1,2 +1,19 @@
 # Do-immigrants-displace-native-workers-
-This project looks at how age, education, and work hours relate to income for native-born and immigrant workers. It finds no evidence that immigrants take jobs from native workers and shows that immigration has a complex but generally positive effect on the labor market.
+Project Summary
+A data analysis project examining whether immigrants take jobs from native-born workers by comparing income and employment factors such as age, education, and work hours.
+
+Dataset
+Dataset included in this repository
+Demographic and employment variables
+Public, non-identifying data
+
+Key Insights
+No evidence of job displacement of native workers
+Employment outcomes are shaped by multiple factors
+Immigration shows a generally positive labor market role
+
+Tools & Skills
+Python
+Pandas
+Exploratory Data Analysis
+Statistical comparison
